@@ -61,6 +61,6 @@ $ gcc -o login login.c input.o
     - 戻り値は無し
 
 ## ライセンス
-Copyright (c) 2016 [rikyuusima](https://github.com/rikyuusima)  
+Copyright (c) 2016 [SYSKEN](https://github.com/TNCT-SYSKEN)  
 Released under the MIT license  
 http://opensource.org/licenses/mit-license.php
