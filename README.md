@@ -54,7 +54,7 @@ $ gcc -o login login.c input.o
     - パスワードの認証を担う
     - 引数は入力されたパスワード
     - 戻り値は正しいか正しくないか**(正しい:1 正しくない:0)**
-* output.c
+* output.c (output.h)
   * print_result()
     - 認証結果の出力を担う
     - 引数はIDの認証結果, パスワードの認証結果
