@@ -21,6 +21,6 @@ int main(void){
 
     /*結果の出力*/
     print_result(auth_id_status, auth_pass_status);
-
+	/*hoge*/
     return 0;
 }
